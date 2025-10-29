@@ -1,5 +1,6 @@
 This is a placeholder readme until I find time ( I am going to sleep) to update the readme I wanted to get the VST3SDK and JUCE  license terms up as I'm guessing it is the onnly problem point.. this is the same readme as The Mix Compressor Alpha version
 the PLUS version is based off the earlier VST3 plugin but adds a few additional features I found in a medium article I put togther. Some info for this plugin may not be correct in the readme but it is much the same idea with a few more features I will write about probably tomorrow.
+PS I havn't really tested this much yet it loads seems to have some of its functions working, not sure beyond that. 
 https://medium.com/@12264447666.williamashley/compression-techniques-in-audio-mixing-3e33375a8482
 
 
